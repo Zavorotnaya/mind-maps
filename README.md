@@ -9,4 +9,4 @@ There are some mind-maps and block-diagrams created by me.
 
 [Блок-схема Яндекс Самокат Оформление заказа](https://drive.google.com/file/d/1DbzRKs6-U9BrtBuRscN-JnRhI1l1P5MU/view?usp=sharing)
 
-[Блок-схема Яндекс Маршруты Алоритм выбора скорости]](https://drive.google.com/file/d/1Sz4PlHy1AtDMgIaG71pIZgmNv4aEESvx/view?usp=sharing)
+[Блок-схема Яндекс Маршруты Алоритм выбора скорости](https://drive.google.com/file/d/1Sz4PlHy1AtDMgIaG71pIZgmNv4aEESvx/view?usp=sharing)
